@@ -1,0 +1,602 @@
+{
+    "links": {
+        "self": "https://tzvi2.github.io/trivia_api/questions.json"
+    },
+    "sports": [
+        { 
+            "question": "Which MLB team has won the most world series championships?",
+            "answers": [
+                {
+                    "text": "Detroit Tigers",
+                    "correct": false
+                },
+                {
+                    "text": "Chicago Cubs",
+                    "correct": false
+                },
+                {
+                    "text": "New York Yankees",
+                    "correct": true
+                },
+                {
+                    "text": "Boston Red Sox",
+                    "correct": false
+                }
+            ]
+        },
+        { 
+            "question": "The Tampa Bay Rays were originally called...",
+            "answers": [
+                {
+                    "text": "Sun Rays",
+                    "correct": false
+                },
+                {
+                    "text": "Pay Rays",
+                    "correct": false
+                },
+                {
+                    "text": "Devil Rays",
+                    "correct": true
+                },
+                {
+                    "text": "Hot Rays",
+                    "correct": false
+                }
+            ]
+        },
+        { 
+            "question": "In what year was the NFL founded?",
+            "answers": [
+                {
+                    "text": "1820",
+                    "correct": false
+                },
+                {
+                    "text": "1920",
+                    "correct": true
+                },
+                {
+                    "text": "1980",
+                    "correct": false
+                },
+                {
+                    "text": "1992",
+                    "correct": false
+                }
+            ]
+        }, 
+        {
+            "question": "Which is the oldest major sports organization in the United States?",
+            "answers": [
+                {
+                    "text": "NBA",
+                    "correct": false
+                },
+                {
+                    "text": "NHL",
+                    "correct": false
+                },
+                {
+                    "text": "NFL",
+                    "correct": false
+                },
+                {
+                    "text": "MLB",
+                    "correct": true
+                }
+            ]
+        },
+        { 
+            "question": "Which soccer (football) club has the most fans in England?",
+            "answers": [
+                {
+                    "text": "Chelsea",
+                    "correct": false
+                },
+                {
+                    "text": "Manchester City",
+                    "correct": false
+                },
+                {
+                    "text": "Liverpool",
+                    "correct": false
+                },
+                {
+                    "text": "Manchester United",
+                    "correct": true
+                }
+            ]
+        },
+        { 
+            "question": "Which team does Lebron James play for (2022)",
+            "answers": [
+                {
+                    "text": "Miami Heat",
+                    "correct": false
+                },
+                {
+                    "text": "Pittsburgh Eagles",
+                    "correct": false
+                },
+                {
+                    "text": "San Antonio Spurs",
+                    "correct": false
+                },
+                {
+                    "text": "Los Angeles Lakers",
+                    "correct": true
+                }
+            ]
+        },
+        { 
+            "question": "What is the worlds second most popular sport?",
+            "answers": [
+                {
+                    "text": "Baseball",
+                    "correct": false
+                },
+                {
+                    "text": "Table Tennis",
+                    "correct": false
+                },
+                {
+                    "text": "Croquet",
+                    "correct": false
+                },
+                {
+                    "text": "Cricket",
+                    "correct": true
+                }
+            ]
+        } 
+    ],
+    "us_history": [
+        { 
+            "question": "Which of the following was not one of the original 13 colonies?",
+            "answers": [
+                {
+                    "text": "Virginia",
+                    "correct": false
+                },
+                {
+                    "text": "Pennsylvania",
+                    "correct": false
+                },
+                {
+                    "text": "Maryland",
+                    "correct": false
+                },
+                {
+                    "text": "Ohio",
+                    "correct": true
+                }
+            ]
+        },
+        { 
+            "question": "Who was the third president of the U.S.?",
+            "answers": [
+                {
+                    "text": "George Washington",
+                    "correct": false
+                },
+                {
+                    "text": "Abraham Lincoln",
+                    "correct": false
+                },
+                {
+                    "text": "Thomas Jefferson",
+                    "correct": true
+                },
+                {
+                    "text": "Woodrow Wilson",
+                    "correct": false
+                }
+            ]
+        },
+        { 
+            "question": "When was the Declaration of Independence published?",
+            "answers": [
+                {
+                    "text": "July 1, 1770",
+                    "correct": false
+                },
+                {
+                    "text": "July 4, 1776",
+                    "correct": true
+                },
+                {
+                    "text": "April 4, 1796",
+                    "correct": false
+                },
+                {
+                    "text": "May 2, 1829",
+                    "correct": false
+                }
+            ]
+        },
+        { 
+            "question": "How many presidents has the U.S. had (as of 2022)?",
+            "answers": [
+                {
+                    "text": "24",
+                    "correct": false
+                },
+                {
+                    "text": "30",
+                    "correct": false
+                },
+                {
+                    "text": "54",
+                    "correct": false
+                },
+                {
+                    "text": "46",
+                    "correct": true
+                }
+            ]
+        }, 
+        { 
+            "question": "Which is a government branch responsible for making and changing laws?",
+            "answers": [
+                {
+                    "text": "Judicial",
+                    "correct": false
+                },
+                {
+                    "text": "Legislative",
+                    "correct": true
+                },
+                {
+                    "text": "Enviromental",
+                    "correct": false
+                },
+                {
+                    "text": "Executive",
+                    "correct": false
+                }
+            ]
+        }, 
+        { 
+            "question": "What were the two sides in the civil war?",
+            "answers": [
+                {
+                    "text": "Co-eds vs Workers United",
+                    "correct": false
+                },
+                {
+                    "text": "Union vs Confederacy",
+                    "correct": true
+                },
+                {
+                    "text": "Tories vs Whigs",
+                    "correct": false
+                },
+                {
+                    "text": "Federalist vs Democrats",
+                    "correct": false
+                }
+            ]
+        }, 
+        { 
+            "question": "Who killed John F. Kennedy?",
+            "answers": [
+                {
+                    "text": "John Wilkes Booth",
+                    "correct": false
+                },
+                {
+                    "text": "Jack Ruby",
+                    "correct": false
+                },
+                {
+                    "text": "Lee Harvey Oswald",
+                    "correct": true
+                },
+                {
+                    "text": "Lester Paul Jones",
+                    "correct": false
+                }
+            ]
+        }
+    ],
+    "geography": [
+        { 
+            "question": "Which two countries border the United States?",
+            "answers": [
+                {
+                    "text": "Canada and Greenland",
+                    "correct": false
+                },
+                {
+                    "text": "Peru and Chile",
+                    "correct": false
+                },
+                {
+                    "text": "Mexico and Canada",
+                    "correct": true
+                },
+                {
+                    "text": "Canada and Iceland",
+                    "correct": false
+                }
+            ]
+        },
+        { 
+            "question": "What is the most populous African country?",
+            "answers": [
+                {
+                    "text": "Madagascar",
+                    "correct": false
+                },
+                {
+                    "text": "Egypt",
+                    "correct": false
+                },
+                {
+                    "text": "Uganda",
+                    "correct": false
+                },
+                {
+                    "text": "Nigeria",
+                    "correct": true
+                }
+            ]
+        },
+        { 
+            "question": "What is the largest country (by size)",
+            "answers": [
+                {
+                    "text": "Canada",
+                    "correct": false
+                },
+                {
+                    "text": "Russia",
+                    "correct": true
+                },
+                {
+                    "text": "China",
+                    "correct": false
+                },
+                {
+                    "text": "France",
+                    "correct": false
+                }
+            ]
+        },
+        { 
+            "question": "What is earth's highest mountain?",
+            "answers": [
+                {
+                    "text": "Makalu",
+                    "correct": false
+                },
+                {
+                    "text": "Mount Everest",
+                    "correct": true
+                },
+                {
+                    "text": "Capitol Hill",
+                    "correct": false
+                },
+                {
+                    "text": "Mount Fuji",
+                    "correct": false
+                }
+            ]
+        }, 
+        { 
+            "question": "Which country has the largest rain forest coverage?",
+            "answers": [
+                {
+                    "text": "Columbia",
+                    "correct": false
+                },
+                {
+                    "text": "Brazil",
+                    "correct": true
+                },
+                {
+                    "text": "Indonesia",
+                    "correct": false
+                },
+                {
+                    "text": "Guinea",
+                    "correct": false
+                }
+            ]
+        },
+        { 
+            "question": "What is the widest river?",
+            "answers": [
+                {
+                    "text": "The Great Egyptian Stream",
+                    "correct": false
+                },
+                {
+                    "text": "The Mississippi River",
+                    "correct": false
+                },
+                {
+                    "text": "The Amazon",
+                    "correct": true
+                },
+                {
+                    "text": "Congo River",
+                    "correct": false
+                }
+            ]
+        },
+        { 
+            "question": "Which is the second most spoken language in the world?",
+            "answers": [
+                {
+                    "text": "Spanish",
+                    "correct": false
+                },
+                {
+                    "text": "Mandarin",
+                    "correct": true
+                },
+                {
+                    "text": "English",
+                    "correct": false
+                },
+                {
+                    "text": "French",
+                    "correct": false
+                }
+            ]
+        }
+    ],
+    "biology": [
+        { 
+            "question": "Paleontology is the study of...",
+            "answers": [
+                {
+                    "text": "Plants",
+                    "correct": false
+                },
+                {
+                    "text": "Joints",
+                    "correct": false
+                },
+                {
+                    "text": "Fossils",
+                    "correct": true
+                },
+                {
+                    "text": "Skin",
+                    "correct": false
+                }
+            ]
+        },
+        { 
+            "question": "DNA contains which chemical bases?",
+            "answers": [
+                {
+                    "text": "Oxygen and Hydrogen",
+                    "correct": false
+                },
+                {
+                    "text": "Guava and Thyme",
+                    "correct": false
+                },
+                {
+                    "text": "Adenine, Cytosine, Guanine, and Thymine",
+                    "correct": true
+                },
+                {
+                    "text": "Adrenaline and Cysts",
+                    "correct": false
+                }
+            ]
+        },
+        { 
+            "question": "Protein is composed of...",
+            "answers": [
+                {
+                    "text": "Glucose",
+                    "correct": false
+                },
+                {
+                    "text": "Amino Acids",
+                    "correct": true
+                },
+                {
+                    "text": "Lactose",
+                    "correct": false
+                },
+                {
+                    "text": "Carbon Molecules",
+                    "correct": false
+                }
+            ]
+        },
+        { 
+            "question": "A chromosome is comprised of...",
+            "answers": [
+                {
+                    "text": "Free electrons",
+                    "correct": false
+                },
+                {
+                    "text": "Epinephrine and sodium",
+                    "correct": false
+                },
+                {
+                    "text": "DNA and proteins",
+                    "correct": true
+                },
+                {
+                    "text": "Endorphins",
+                    "correct": false
+                }
+            ]
+        }, 
+        { 
+            "question": "What are the two main functions of the pancreas?",
+            "answers": [
+                {
+                    "text": "Regulate body temperature and heart rate",
+                    "correct": false
+                },
+                {
+                    "text": "Aid digestion and regulate blood sugar levels",
+                    "correct": true
+                },
+                {
+                    "text": "Supply oxygen to the body and protect the lungs",
+                    "correct": false
+                },
+                {
+                    "text": "Process blood calcium and strengthen the skeletal system",
+                    "correct": false
+                }
+            ]
+        },
+        { 
+            "question": "What is the darkest part of the human eye's exterior?",
+            "answers": [
+                {
+                    "text": "Iris",
+                    "correct": false
+                },
+                {
+                    "text": "Pupil",
+                    "correct": true
+                },
+                {
+                    "text": "Sclera",
+                    "correct": false
+                },
+                {
+                    "text": "Optica Majora",
+                    "correct": false
+                }
+            ]
+        },
+        { 
+            "question": "Which of the following is not a type of joint?",
+            "answers": [
+                {
+                    "text": "Pivot joint",
+                    "correct": false
+                },
+                {
+                    "text": "Rolling joint",
+                    "correct": true
+                },
+                {
+                    "text": "Ball and socket joint",
+                    "correct": false
+                },
+                {
+                    "text": "Gliding joint",
+                    "correct": false
+                }
+            ]
+        }
+    ] 
+
+}
